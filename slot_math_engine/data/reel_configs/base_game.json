@@ -1,0 +1,51 @@
+{
+  "game_name": "CSGMVE (Production v8 - Balanced)",
+  "reels": 5,
+  "rows": 3,
+  "paylines": 20,
+  "bet_per_line": 1,
+  "symbols": {
+    "WILD": {
+      "id": 0, 
+      "weight": [2, 2, 2, 2, 2], 
+      "payout": [0, 0, 0, 150, 750, 7500]
+    },
+    "SCATTER": {
+      "id": 1, 
+      "weight": [3, 3, 3, 3, 3], 
+      "payout": [0, 0, 2, 10, 50, 200], 
+      "bonus_trigger": true
+    },
+    "SYMBOL_A": {
+      "id": 2, 
+      "weight": [4, 4, 4, 4, 4], 
+      "payout": [0, 0, 0, 40, 200, 2000]
+    },
+    "SYMBOL_K": {
+      "id": 3, 
+      "weight": [5, 5, 5, 5, 5], 
+      "payout": [0, 0, 0, 30, 150, 1000]
+    },
+    "SYMBOL_Q": {
+      "id": 4, 
+      "weight": [8, 8, 8, 8, 8], 
+      "payout": [0, 0, 0, 20, 100, 500]
+    },
+    "SYMBOL_J": {
+      "id": 5, 
+      "weight": [12, 12, 12, 12, 12], 
+      "payout": [0, 0, 0, 10, 50, 250]
+    },
+    "SYMBOL_10": {
+      "id": 6, 
+      "weight": [15, 15, 15, 15, 15], 
+      "payout": [0, 0, 0, 5, 25, 125]
+    },
+    "BLANK": {
+      "id": 7,
+      "weight": [15, 15, 15, 15, 15],
+      "payout": [0, 0, 0, 0, 0, 0]
+    }
+  },
+  "virtual_reel_stops": [64, 64, 64, 64, 64]
+}

@@ -1,0 +1,27 @@
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.vscode/
+.idea/
+
+# Database & Large Data
+*.db
+*.sqlite3
+simulation_results.db
+
+# Output Folders (Generated artifacts)
+results/
+reports/
+
+# Input Specs (Large text files not needed for code execution)
+details1.md
+details2.md
+
+# Mac OS
+.DS_Store
+
+# Streamlit
+.streamlit/
