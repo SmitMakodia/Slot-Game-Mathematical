@@ -18,6 +18,31 @@ It features a dual-verification system:
 
 ---
 
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td><img src="slot_math_engine/images/i%20(1).png"/></td>
+    <td><img src="slot_math_engine/images/i%20(2).png"/></td>
+  </tr>
+  <tr>
+    <td><img src="slot_math_engine/images/i%20(3).png"/></td>
+    <td><img src="slot_math_engine/images/i%20(4).png"/></td>
+  </tr>
+  <tr>
+    <td><img src="slot_math_engine/images/i%20(5).png"/></td>
+    <td><img src="slot_math_engine/images/i%20(6).png"/></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="slot_math_engine/images/demo.gif"/>
+
+</div>
+
+---
+
 ## 🏗️ System Architecture
 
 The following diagram illustrates the data flow from configuration to visualization.
