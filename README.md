@@ -35,10 +35,6 @@ It features a dual-verification system:
   </tr>
 </table>
 
-<br/>
-
-<img src="slot_math_engine/images/demo.gif"/>
-
 </div>
 
 ---
